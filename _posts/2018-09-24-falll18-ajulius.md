@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Koreatown's idenity"
+title: "Koreatown: A Developing Cultural Microcosm "
 date: 2018-10-28
-categories: "sustainability" 
+categories: "Metropolitan" 
 author: "Adam Julius "
 lat: 34.060959
 lng: -118.301189
-runningtitle: "this is just the title at the top, no need to do anything here"
+runningtitle: "Once a haven for all Korean immigrants, Koreatown has transformed into a multi-cultural microcosm, best representative of the Los Angeles metropolis. The promotion of Angelino values of cultural heterogeneity, the consequential impact of the 1965 and 1980 Riots, and the advancement of urban construction, in conjunction with the influx of the “Millennial” generation, shape Koreatown’s way of life and more importantly its identity."
+
 desc: "this is the map popup text"
 ---
 Adam Julius 
 November 30, 2018
 Milstein-WP4
 
-Koreatown: A Developing Cultural Microcosm 
 
 As I cruise the streets of downtown Los Angeles, Google Maps announces that I have arrived at my destination. Despite the fact that I am geographically in Koreatown, the lack of Korean spirit and influence remains perplexing. Rather than being immersed in Korean culture as I envisioned, the streets are filled with Latino workers, neon strobe lights, and a Burger King juxtaposed by a posh, fifteen story high-rise. Myself, like many individuals, often turn trap to this misconception. Once a haven for all Korean immigrants, Koreatown has transformed into a multi-cultural microcosm, best representative of the Los Angeles metropolis. The promotion of Angelino values of cultural heterogeneity, the consequential impact of the 1965 and 1980 Riots, and the advancement of urban construction, in conjunction with the influx of the “Millennial” generation, shape Koreatown’s way of life and more importantly its identity. While many first-generation Koreans are attempting to preserve their customary way of life, the once spirited Korean culture quickly dwindles. 
 The image of Koreatown is rooted in its pride and traditions of diligence and hard work, the core foundation of all Koreans. Far from its humble beginnings, Koreatown now encapsulates an area that is five times larger than Little Tokyo and Chinatown combined. In search of a better life, Koreans not only fought through the many hardships of coming to the United States but also thrived. Koreans immigrated to America in three distinct waves: to escape Japanese oppression (prior to 1950), in reaction to the Korean War (1950-1964), and lastly due to the ratification of the 1965 Immigration and Naturalization Act (1965-1975). Koreans abandoned their status and successes in their homeland for dreams of a better life, and clung to principles of commitment and perseverance (lasting Koreatown values). 
